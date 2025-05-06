@@ -1,16 +1,31 @@
-# demo
+# 🌾 Agricare
 
-A new Flutter project.
+**Agricare** is a smart agriculture Flutter application designed to support farmers by providing a platform for buying and selling agricultural products and detecting plant diseases using AI.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🛒 Buy and sell seeds, fertilizers, and animal feed
+- 🤖 Smart plant disease detection using camera or gallery images
+- 📦 Easy product listing and browsing
+- 📊 Informative dashboards for farmers
+- 🧑‍🌾 Simple, clean, and intuitive UI
+- 🇮🇳 Built for Indian farmers, but scalable globally
 
-A few resources to get you started if this is your first Flutter project:
+## 🧰 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Frontend:** Flutter
+- **State Management:** GetX
+- **Backend/API:** [Firebase / Custom Node.js / Django — modify as per your app]
+- **Machine Learning:** TensorFlow Lite model for plant disease classification
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Smart Detection
+
+Agricare uses an integrated machine learning model to identify plant diseases through uploaded images. The model supports 30+ classes of common crop diseases.
+
+## 📦 Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/agricare.git
+   cd agricare

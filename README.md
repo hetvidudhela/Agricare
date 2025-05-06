@@ -15,7 +15,7 @@
 
 - **Frontend:** Flutter
 - **State Management:** GetX
-- **Backend/API:** [Firebase / Custom Node.js / Django — modify as per your app]
+- **Backend/API:** [Firebase]
 - **Machine Learning:** TensorFlow Lite model for plant disease classification
 
 ## 📸 Smart Detection
